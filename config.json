@@ -1,0 +1,15 @@
+{
+    "autosave": true,
+    "cpu": true,
+    "opencl": false,
+    "cuda": false,
+    "pools": [
+        {
+            "url": "xmrpool.eu:9999",
+            "user": "86fXeFkwdUnERG2Q1CMevjHTFLQquPsiP4zNUATCnU4f7bnYie8qphqTsSWe7ZUAeNFXku1G6SJZ64LTaALTKBtLKij1x8M",
+			"rig-id": "miningserver-1",
+            "keepalive": true,
+            "tls": true
+        }
+    ]
+}
